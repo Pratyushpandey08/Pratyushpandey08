@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pratyushpandey08
+- 👋 Hi, I am Pratyush Pandey , Sophomore at NSUT, Delhi
 - 👀 I’m interested in C++ and Web Development.
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on C++ projects.
